@@ -6,8 +6,14 @@ class Program
 
     static void Main(string[] args)
     {
+        welcome();
+    }
+
+    static void welcome()
+    {
         string username;
         string pizzatypename;
+        string pizza1, pizza2, pizza3;
 
         Console.WriteLine("=================================");
         Console.WriteLine("=====  Welcome to DPPizza!  =====");
@@ -20,7 +26,8 @@ class Program
         Console.WriteLine("Vegetarian");
         pizzatypename = Console.ReadLine();
         Console.WriteLine($"Thank you {username}, you have selected {pizzatypename}");
-        Console.WriteLine("Please confirm if this is the correct pizza for you today (y/n):");
+        Console.WriteLine($"Please confirm if {pizzatypename} is the correct pizza for you today (y/n):");
         Console.ReadKey(true);
+
     }
 }
