@@ -1,0 +1,15 @@
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\bin\Debug\net7.0\DPPizza.exe
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\bin\Debug\net7.0\DPPizza.deps.json
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\bin\Debug\net7.0\DPPizza.runtimeconfig.json
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\bin\Debug\net7.0\DPPizza.dll
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\bin\Debug\net7.0\DPPizza.pdb
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\DPPizza.csproj.AssemblyReference.cache
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\DPPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\DPPizza.AssemblyInfoInputs.cache
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\DPPizza.AssemblyInfo.cs
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\DPPizza.csproj.CoreCompileInputs.cache
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\DPPizza.dll
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\refint\DPPizza.dll
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\DPPizza.pdb
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\DPPizza.genruntimeconfig.cache
+C:\Users\DARREN\Documents\Computing\NewPizzaApp\DPPizza\obj\Debug\net7.0\ref\DPPizza.dll
