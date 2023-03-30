@@ -33,7 +33,8 @@ class Program
         Console.WriteLine("Peppers      £1");
         Console.WriteLine("Sweetcorn    £1");
         toppingName = Console.ReadLine();
-        Console.WriteLine($"Thank you {userName}, you have selected a {pizzatypeName} pizza with additional toppings {toppingName}, please now select your preferred type of base from list below:");
+        Console.WriteLine($"Thank you {userName}, you have selected a {pizzatypeName} pizza with additional toppings {toppingName}");
+        Console.WriteLine("Please now select your preferred type of base from list below:");
         Console.WriteLine("Thin");
         Console.WriteLine("Deep Pan");
         Console.WriteLine("Gluten Free");
