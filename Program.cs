@@ -40,7 +40,7 @@ class Program
         Console.WriteLine("Gluten Free");
         pizzabaseName = Console.ReadLine();
         Console.WriteLine($"Thank you {userName}. You have chosen a {pizzatypeName} pizza with additional toppings {toppingName} on a {pizzabaseName} base.");
-        Console.WriteLine("Please confirm if this is the correct pizza for you today (y/n):");
+        Console.WriteLine("Please press any key to end program:");
         Console.ReadKey(true);
 
     }
